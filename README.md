@@ -102,7 +102,7 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/kishore2109K/Linux-IPC-Pipes/assets/152274619/f63378cb-dcd7-4af5-83c9-a2d2e8978689)
 
 
 # RESULT:
